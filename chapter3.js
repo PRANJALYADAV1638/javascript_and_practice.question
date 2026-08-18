@@ -67,5 +67,5 @@ str.charAt(idx);
 
 // TAKE NAME FROM USER AND MAKE USER NAME STT WITH @ THEN FULL NAME THEN LENGTH OF NAME ;
 */
-let name =prompt("enter your full name ");
-console.log(`@${name}${name.length}`);
+let fullName = prompt("Enter your full name:");
+console.log(`@${fullName}${fullName.length}`);
