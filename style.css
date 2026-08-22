@@ -1,3 +1,35 @@
 h1{
   color: rgb(0, 105, 196);
 }
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border: solid black;
+
+}
+
+.content {
+    color: blue;
+}
+
+.newClass {
+    background-color: yellow;
+}
+botton{
+    background-color: blue;
+    color: antiquewhite;
+}
+#box7{
+      height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border: solid black;
+
+}
+#clicktochange{
+  width: 100PX;
+    background-color: aquamarine;
+    border: solid black;
+  
+}
