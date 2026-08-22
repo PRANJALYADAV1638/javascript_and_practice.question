@@ -50,7 +50,7 @@ btn2.addEventListener("click",(evt)=>{
     
 })
 
-// PRACTICE  MAKE A BUTTON TO CHANGE THE THEME 
+// PRACTICE 1 MAKE A BUTTON TO CHANGE THE THEME 
 let clicktochange=document.querySelector('#clicktochange');
 let currmode="light";
 clicktochange.addEventListener("click",()=>{
